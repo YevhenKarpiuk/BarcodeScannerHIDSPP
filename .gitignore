@@ -1,0 +1,17 @@
+.git/
+.gradle/
+.idea/
+.claude/
+.cxx/
+.build/
+**/build/
+**/obj/
+**/libs/
+**/publish/
+local.properties
+*.log
+*.jks
+*.keystore
+*.user
+*.suo
+Thumbs.db

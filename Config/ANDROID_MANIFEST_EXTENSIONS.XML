@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <target xpath="/manifest">
+        <uses-permission
+            android:name="android.permission.BLUETOOTH"
+            android:maxSdkVersion="30" />
+        <uses-permission
+            android:name="android.permission.BLUETOOTH_ADMIN"
+            android:maxSdkVersion="30" />
+        <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    </target>
+
+</root>
